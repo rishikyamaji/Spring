@@ -13,6 +13,9 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.metadata
+*.recommenders
+
 
 # Windows shortcuts
 *.lnk
@@ -44,4 +47,5 @@ $RECYCLE.BIN/
 .AppleDesktop
 Network Trash Folder
 Temporary Items
+RemoteSystemsTempFiles
 .apdisk
